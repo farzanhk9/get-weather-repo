@@ -9,7 +9,7 @@ API_KEY = "your_openweathermap_api_key"  # Get from openweathermap.org (free acc
 # ======================
 
 # Weather-based commit messages
-sunny_msgs = ["Sunny day vibes ☀️", "Bright and beautiful outside 🌞", "Enjoying the sunshine 🌼"]
+sunny_msgs = ["Sunny day vibes ☀️☀️", "Bright and beautiful outside 🌞🌞", "Enjoying the sunshine 🌼"]
 rainy_msgs = ["Rainy mood 🌧", "Raindrops keep falling 💧", "Cozy day indoors ☕"]
 cloudy_msgs = ["Cloudy skies ahead ☁️", "A bit gloomy but okay 🌫", "Waiting for the sun to come out 🌥"]
 other_msgs = ["Weather is changing 🌍", "Interesting day outside 🌈", "Another day, another vibe 🌎"]
